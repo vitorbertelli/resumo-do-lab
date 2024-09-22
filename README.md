@@ -1,2 +1,8 @@
 # resumo-do-lab
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO.
+Durante o laboratório, foi apresentado o Microsoft Azure e suas possibilidades de aplicação, então busquei aprender mais sobre alguns dos temas mencionados.
+
+Começando pelos Bastions e Jump Servers, aprendi que eles são componentes essenciais para acessar recursos privados em uma rede segura. O Bastion atua como uma ponte, permitindo o acesso remoto a máquinas virtuais sem a necessidade de expor portas RDP ou SSH diretamente à internet, aumentando a segurança. Já o Jump Server funciona de maneira similar, servindo como um ponto centralizado de acesso aos servidores em uma rede restrita. Ambos garantem que o acesso aos recursos na nuvem seja mais seguro, evitando brechas de segurança que poderiam ser exploradas se os servidores estivessem expostos publicamente.
+
+Quanto aos Firewalls na nuvem, entendi que eles são fundamentais para controlar e proteger o tráfego de rede. Eles agem como uma barreira entre diferentes zonas da rede, permitindo que o tráfego autorizado entre e saia, ao mesmo tempo que bloqueiam acessos não autorizados. Na nuvem, o firewall se torna ainda mais crucial, uma vez que os recursos estão distribuídos em múltiplas localizações e acessíveis de qualquer lugar do mundo.
+
+Por fim, o armazenamento na nuvem foi outro conceito que explorei. Ele oferece alta disponibilidade, escalabilidade e redundância, permitindo o armazenamento de grandes quantidades de dados de forma segura e acessível. Soluções como o Blob Storage no Azure facilitam o armazenamento de arquivos e objetos na nuvem, além de permitir o acesso via API para integração com outros sistemas. No entanto, é necessário que uma empresa analise a viabilidade de usar o armazenamento na nuvem.
