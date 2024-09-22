@@ -27,3 +27,8 @@ Antes de realizar a contratação de um serviço como esse, é sempre importante
 As máquinas virtuais no Azure são um dos serviços essenciais oferecidos pela plataforma de computação em nuvem da Microsoft. Elas permitem a criação e execução de instâncias de máquinas virtuais personalizáveis na infraestrutura em nuvem do Azure, de forma semelhante a servidores físicos. 
 
 O Azure oferece opções de alta disponibilidade, como zonas de disponibilidade, que garantem que o serviço continue funcionando mesmo em caso de falhas de hardware ou em data centers.
+
+## Tipos de serviço de nuvem
+Uma imagem de máquina virtual (VM) no Azure é uma cópia pré-configurada de um sistema operacional, que pode incluir software e configurações específicas. As imagens são usadas para criar novas instâncias de máquinas virtuais rapidamente e de forma consistente. O Azure fornece uma variedade de imagens padrão que incluem diferentes sistemas operacionais, como Windows Server, Ubuntu, e outras distribuições Linux.
+
+Os bancos de dados no Azure são serviços de armazenamento de dados que permitem gerenciar, consultar e armazenar informações de forma eficiente. O Azure oferece várias opções de banco de dados, como MySQL, PostgreSQL, MariaDB, etc. Bancos de dados na nuvem podem ser facilmente escalados para atender a demandas variáveis, aumentando ou diminuindo recursos de acordo com a necessidade. Eles também podem ser acessados de qualquer lugar com conexão à internet, facilitando o trabalho remoto e a colaboração. Além disso, tanto a Azure como outros provedores de nuvem, cuidam de tarefas administrativas, como backups, atualizações de software e patches de segurança, permitindo que os desenvolvedores se concentrem na construção de aplicativos.
